@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Mr. Nilesh Solanki",
+      "username": "Owner",
+      "email": "Nilesh.solanki@gamil.com",
+      "phone": "9876543210",
+      "id": 1
+    },
+    {
+      "name": "Mr. Darshil Shah",
+      "username": "Co. Owner",
+      "email": "Darshil.shah@gmail.com",
+      "phone": "9876543210",
+      "id": 2
+    },
+    {
+      "name": "Mr. Mahimna Mehta",
+      "username": "Jr. Software Developer ",
+      "email": "Mahimna.mehta@gmail.com",
+      "phone": "9876543210",
+      "id": 4
+    },
+    {
+      "name": "Mr.Priyank Pataliya",
+      "username": "Trainee",
+      "email": "Priyanksoni9333@gmail.com",
+      "phone": "9601846475",
+      "id": 5
+    },
+    {
+      "name": "Mr. Parthiv Pithadiya ",
+      "username": "Trainee",
+      "email": "parthiv@gmail.com",
+      "phone": "9876543210",
+      "id": 6
+    }
+  ]
+}
